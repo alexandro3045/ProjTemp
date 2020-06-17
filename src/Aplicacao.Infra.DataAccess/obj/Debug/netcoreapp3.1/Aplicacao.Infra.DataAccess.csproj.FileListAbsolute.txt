@@ -1,0 +1,17 @@
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\bin\Debug\netcoreapp3.1\Aplicacao.Infra.DataAccess.deps.json
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\bin\Debug\netcoreapp3.1\Aplicacao.Infra.DataAccess.runtimeconfig.json
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\bin\Debug\netcoreapp3.1\Aplicacao.Infra.DataAccess.runtimeconfig.dev.json
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\bin\Debug\netcoreapp3.1\Aplicacao.Infra.DataAccess.dll
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\bin\Debug\netcoreapp3.1\Aplicacao.Infra.DataAccess.pdb
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\bin\Debug\netcoreapp3.1\Aplicacao.Domain.dll
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\bin\Debug\netcoreapp3.1\Aplicacao.Domain.Shared.dll
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\bin\Debug\netcoreapp3.1\Aplicacao.Domain.pdb
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\bin\Debug\netcoreapp3.1\Aplicacao.Domain.Shared.pdb
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\obj\Debug\netcoreapp3.1\Aplicacao.Infra.DataAccess.csprojAssemblyReference.cache
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\obj\Debug\netcoreapp3.1\Aplicacao.Infra.DataAccess.csproj.CoreCompileInputs.cache
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\obj\Debug\netcoreapp3.1\Aplicacao.Infra.DataAccess.AssemblyInfoInputs.cache
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\obj\Debug\netcoreapp3.1\Aplicacao.Infra.DataAccess.AssemblyInfo.cs
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\obj\Debug\netcoreapp3.1\Aplicacao.Infra.DataAccess.csproj.CopyComplete
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\obj\Debug\netcoreapp3.1\Aplicacao.Infra.DataAccess.dll
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\obj\Debug\netcoreapp3.1\Aplicacao.Infra.DataAccess.pdb
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.DataAccess\obj\Debug\netcoreapp3.1\Aplicacao.Infra.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Domain\bin\Debug\netcoreapp3.1\Aplicacao.Domain.deps.json
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Domain\bin\Debug\netcoreapp3.1\Aplicacao.Domain.dll
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Domain\bin\Debug\netcoreapp3.1\Aplicacao.Domain.pdb
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Domain\bin\Debug\netcoreapp3.1\Aplicacao.Domain.Shared.dll
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Domain\bin\Debug\netcoreapp3.1\Aplicacao.Domain.Shared.pdb
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Domain\obj\Debug\netcoreapp3.1\Aplicacao.Domain.csprojAssemblyReference.cache
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Domain\obj\Debug\netcoreapp3.1\Aplicacao.Domain.csproj.CoreCompileInputs.cache
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Domain\obj\Debug\netcoreapp3.1\Aplicacao.Domain.AssemblyInfoInputs.cache
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Domain\obj\Debug\netcoreapp3.1\Aplicacao.Domain.AssemblyInfo.cs
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Domain\obj\Debug\netcoreapp3.1\Aplicacao.Domain.csproj.CopyComplete
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Domain\obj\Debug\netcoreapp3.1\Aplicacao.Domain.dll
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Domain\obj\Debug\netcoreapp3.1\Aplicacao.Domain.pdb

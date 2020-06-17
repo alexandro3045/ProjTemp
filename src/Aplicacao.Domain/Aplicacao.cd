@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Aplicacao.Domain.Services.CustomerService" Collapsed="true">
+    <Position X="16.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAEAAEAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Customer\Services\CustomerService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Aplicacao.Domain.Services.OrderService" Collapsed="true">
+    <Position X="18.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAgAAAAAgAAAAAEAAEAAIAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Aggregate\Order\Services\OrderService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Aplicacao.Domain.Services.ProductService" Collapsed="true">
+    <Position X="21" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAEAAEAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Product\Services\ProductService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Aplicacao.Domain.Services.BaseService&lt;T, Tid&gt;" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAiAAAABAAAAAAAAAEAEIAAAAAgAAAAAAIAA=</HashCode>
+      <FileName>Services\BaseService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Aplicacao.Domain.Validations.CustomerValidator" Collapsed="true">
+    <Position X="36.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Customer\Validations\CustomerValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacao.Domain.Validations.OrderValidator" Collapsed="true">
+    <Position X="31.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Order\Validations\OrderValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacao.Domain.Validations.ProductValidator" Collapsed="true">
+    <Position X="35" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Product\Validations\ProductValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacao.Domain.Validations.AddressValidator" Collapsed="true">
+    <Position X="33.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueObject\Address\Validations\AddressValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacao.Domain.Model.Customer" Collapsed="true">
+    <Position X="35" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAQAAQAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Customer\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacao.Domain.Model.Order" Collapsed="true">
+    <Position X="35" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Order\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacao.Domain.Model.OrderItems" Collapsed="true">
+    <Position X="36.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAECAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Aggregate\Order\OrderItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacao.Domain.Model.Product" Collapsed="true">
+    <Position X="33.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgAAAAAAAAAAAAACAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Aggregate\Product\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacao.Domain.Model.Address" Collapsed="true">
+    <Position X="31.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAIBEAAAAAIAAIAABABAAIABAAAAAA=</HashCode>
+      <FileName>ValueObject\Address\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacao.Domain.Model.Access.Token" Collapsed="true">
+    <Position X="36.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAQEAAAAAQAAAAAIAAAAAA=</HashCode>
+      <FileName>Model\Access\Token.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacao.Domain.Model.Access.User" Collapsed="true">
+    <Position X="31.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Model\Access\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacao.Domain.ValueObject.Document" Collapsed="true">
+    <Position X="31.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAEAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ValueObject\PrimitiveObsession\Document.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacao.Domain.ValueObject.Name" Collapsed="true">
+    <Position X="33.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAEAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueObject\PrimitiveObsession\Name.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Aplicacao.Domain.Interfaces.Repositories.ICustomerRedisRepository" Collapsed="true">
+    <Position X="24.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Customer\Interfaces\Repositories\ICustomerRedisRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Aplicacao.Domain.Interfaces.Repositories.ICustomerSQLServerRepository" Collapsed="true">
+    <Position X="16.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Customer\Interfaces\Repositories\ICustomerSQLServerRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Aplicacao.Domain.Interfaces.Repositories.IOrderRedisRepository" Collapsed="true">
+    <Position X="26.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Order\Interfaces\Repositories\IOrderRedisRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Aplicacao.Domain.Interfaces.Repositories.IOrderSQLServerRepository">
+    <Position X="18.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Order\Interfaces\Repositories\IOrderSQLServerRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Aplicacao.Domain.Interfaces.Repositories.IProductRedisRepository" Collapsed="true">
+    <Position X="29" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Product\Interfaces\Repositories\IProductRedisRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Aplicacao.Domain.Interfaces.Repositories.IProductSQLServerRepository" Collapsed="true">
+    <Position X="21" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Product\Interfaces\Repositories\IProductSQLServerRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Aplicacao.Domain.Interfaces.Repositories.IRedisRepository&lt;T, Tid&gt;" Collapsed="true">
+    <Position X="26.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABABAIAAABAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Interfaces\Repositories\IRedisRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Aplicacao.Domain.Interfaces.Repositories.ISQLRepository&lt;T, Tid&gt;" Collapsed="true">
+    <Position X="18.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAEAAAAAAAAAEAAEAAAAAAAQAAAAA=</HashCode>
+      <FileName>Interfaces\Repositories\ISQLRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Aplicacao.Domain.Interfaces.Services.ICustomerService" Collapsed="true">
+    <Position X="16.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Customer\Interfaces\Services\ICustomerService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Aplicacao.Domain.Interfaces.Services.IOrderService" Collapsed="true">
+    <Position X="18.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Order\Interfaces\Services\IOrderService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Aplicacao.Domain.Interfaces.Services.IProductService" Collapsed="true">
+    <Position X="21" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate\Product\Interfaces\Services\IProductService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Aplicacao.Domain.Interfaces.Services.IService&lt;TEntity, Tid&gt;" Collapsed="true">
+    <Position X="18.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAABAAAAAAAAAAAEAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Services\IService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Aplicacao.Domain.Interfaces.CQRS.IMediatorHandler" Collapsed="true">
+    <Position X="31.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\CQRS\IMediatorHandler.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Aplicacao.Domain.UoW.IUnitOfWork" Collapsed="true">
+    <Position X="33.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UoW\IUnitOfWork.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

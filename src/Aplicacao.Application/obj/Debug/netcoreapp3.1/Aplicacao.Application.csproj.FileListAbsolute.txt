@@ -1,0 +1,14 @@
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Application\bin\Debug\netcoreapp3.1\Aplicacao.Application.deps.json
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Application\bin\Debug\netcoreapp3.1\Aplicacao.Application.dll
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Application\bin\Debug\netcoreapp3.1\Aplicacao.Application.pdb
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Application\bin\Debug\netcoreapp3.1\Aplicacao.Domain.dll
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Application\bin\Debug\netcoreapp3.1\Aplicacao.Domain.Shared.dll
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Application\bin\Debug\netcoreapp3.1\Aplicacao.Domain.pdb
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Application\bin\Debug\netcoreapp3.1\Aplicacao.Domain.Shared.pdb
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Application\obj\Debug\netcoreapp3.1\Aplicacao.Application.csprojAssemblyReference.cache
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Application\obj\Debug\netcoreapp3.1\Aplicacao.Application.csproj.CoreCompileInputs.cache
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Application\obj\Debug\netcoreapp3.1\Aplicacao.Application.AssemblyInfoInputs.cache
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Application\obj\Debug\netcoreapp3.1\Aplicacao.Application.AssemblyInfo.cs
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Application\obj\Debug\netcoreapp3.1\Aplicacao.Application.csproj.CopyComplete
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Application\obj\Debug\netcoreapp3.1\Aplicacao.Application.dll
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Application\obj\Debug\netcoreapp3.1\Aplicacao.Application.pdb

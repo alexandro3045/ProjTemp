@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Aplicacao.Test": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "remoteDebugEnabled": false,
+      "sqlDebugging": false,
+      "nativeDebugging": false,
+      "applicationUrl": "https://localhost:44352"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ug/HmpJfpj7zseUqlp1smZYKJSTMyGOpbheu2Dns6zCl3HbJiOiKFctDiEVC/0whvHlK68AAbuTae24D+1q5+A==",
+  "success": true,
+  "projectFilePath": "C:\\FIRJAN\\Felipe\\ProjTemp\\Temp\\src\\Aplicacao.Domain\\Aplicacao.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexandro\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Alexandro\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+    "C:\\Users\\Alexandro\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.2\\fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
+    "C:\\Users\\Alexandro\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.5\\microsoft.extensions.caching.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\Alexandro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Alexandro\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512",
+    "C:\\Users\\Alexandro\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

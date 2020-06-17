@@ -1,0 +1,14 @@
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.MessageBroker\bin\Debug\netcoreapp3.1\Aplicacao.Infra.MessageBroker.deps.json
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.MessageBroker\bin\Debug\netcoreapp3.1\Aplicacao.Infra.MessageBroker.dll
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.MessageBroker\bin\Debug\netcoreapp3.1\Aplicacao.Infra.MessageBroker.pdb
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.MessageBroker\bin\Debug\netcoreapp3.1\Aplicacao.Domain.dll
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.MessageBroker\bin\Debug\netcoreapp3.1\Aplicacao.Domain.Shared.dll
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.MessageBroker\bin\Debug\netcoreapp3.1\Aplicacao.Domain.pdb
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.MessageBroker\bin\Debug\netcoreapp3.1\Aplicacao.Domain.Shared.pdb
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.MessageBroker\obj\Debug\netcoreapp3.1\Aplicacao.Infra.MessageBroker.csprojAssemblyReference.cache
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.MessageBroker\obj\Debug\netcoreapp3.1\Aplicacao.Infra.MessageBroker.csproj.CoreCompileInputs.cache
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.MessageBroker\obj\Debug\netcoreapp3.1\Aplicacao.Infra.MessageBroker.AssemblyInfoInputs.cache
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.MessageBroker\obj\Debug\netcoreapp3.1\Aplicacao.Infra.MessageBroker.AssemblyInfo.cs
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.MessageBroker\obj\Debug\netcoreapp3.1\Aplicacao.Infra.MessageBroker.csproj.CopyComplete
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.MessageBroker\obj\Debug\netcoreapp3.1\Aplicacao.Infra.MessageBroker.dll
+C:\FIRJAN\Felipe\ProjTemp\Temp\src\Aplicacao.Infra.MessageBroker\obj\Debug\netcoreapp3.1\Aplicacao.Infra.MessageBroker.pdb
